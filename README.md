@@ -7,7 +7,6 @@
 
 This Repository is on the BigMart’s sale prediction proposed by Analytics Vidhya.According to the information provided, Bigmart is a big supermarket chain, with stores all around the country and its current board set out a challenge to all Data Scientist out there to help them create a model that can predict the sales, per product, for each store. BigMart has collected sales data from the year 2013, for 1559 products across 10 stores in different cities. With this information the corporation hopes we can identify the products and stores which play a key role in their sales and use that information to take the correct measures to ensure success of their business.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
 **Project Link** - ***https://big-mart-sales-prediction1.herokuapp.com/***
 
