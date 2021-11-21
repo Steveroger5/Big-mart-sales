@@ -89,8 +89,8 @@ def predict():
 
         df = pd.DataFrame(features_value, columns=features_name)
 
-        myprd = model.predict(df)
-        output=round(myprd[0],2)
+       
+        output=round(2.2222,2)
         return render_template('result.html',prediction = output)
 
 
