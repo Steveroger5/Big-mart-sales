@@ -3,7 +3,7 @@
 
 ### Project Link ->  https://big-mart-sales-prediction1.herokuapp.com/ 🌐🌐
 
-![enter image description here](https://miro.medium.com/max/624/1*LXEEUY5Vf3tTCMFC41llJQ.png)
+![enter image description here](https://cdn-images-1.medium.com/max/480/1*JADDaOLHMZ4ZhQinzmScRQ.png)
 
 This Repository is on the BigMart’s sale prediction proposed by Analytics Vidhya.According to the information provided, Bigmart is a big supermarket chain, with stores all around the country and its current board set out a challenge to all Data Scientist out there to help them create a model that can predict the sales, per product, for each store. BigMart has collected sales data from the year 2013, for 1559 products across 10 stores in different cities. With this information the corporation hopes we can identify the products and stores which play a key role in their sales and use that information to take the correct measures to ensure success of their business.
 
@@ -55,8 +55,6 @@ of Big Mart. In our work, we propose a model using Xgboost algorithm and
 compare it with other machine learning techniques like Linear regression, Ridge
 regression , Decision tree etc.
 
-
-
  ## UI/UX
  ### Screenshot-1![enter image description here](https://raw.githubusercontent.com/ritik-sys/Big-mart-sales-prediction/main/1.jpeg)
  ### Screenshot-2![enter image description here](https://raw.githubusercontent.com/ritik-sys/Big-mart-sales-prediction/main/2.jpeg)
@@ -85,28 +83,8 @@ regression , Decision tree etc.
  **4.** **🎉  Open your browser and go to  `https://localhost:3000`**
  
 ## Contributors 🤝
- - [**Ritik Kumar**](https://github.com/ritik-sys)  
+ - [**Gagandeep Singh**](https://github.com/)  
 
  
- 
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
- 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-
-
-## References
-<a id="1">[1]</a> 
-https://www.semanticscholar.org/paper/A-Two-Level-Statistical-Model-for-Big-Mart-Sales-Punam-Pamula/c3df505b92b6586055259a067c3d9a1d8a1d26f0
-
-<a id="1">[2]</a> 
-https://www.researchgate.net/publication/336530068_A_Comparative_Study_of_Big_Mart_Sales_Prediction
-
-<a id="1">[3]</a> 
-https://medium.com/diogo-menezes-borges/project-1-bigmart-sale-prediction-fdc04f07dc1e
-
-<a id="1">[4]</a> 
-https://www.kaggle.com/hiralmshah/bigmart-sales-prediction
 
 
