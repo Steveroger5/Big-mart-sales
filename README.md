@@ -8,7 +8,7 @@
 This Repository is on the BigMart’s sale prediction proposed by Analytics Vidhya.According to the information provided, Bigmart is a big supermarket chain, with stores all around the country and its current board set out a challenge to all Data Scientist out there to help them create a model that can predict the sales, per product, for each store. BigMart has collected sales data from the year 2013, for 1559 products across 10 stores in different cities. With this information the corporation hopes we can identify the products and stores which play a key role in their sales and use that information to take the correct measures to ensure success of their business.
 
 
-**Project Link** - ***https://big-mart-sales-prediction1.herokuapp.com/***
+**Project Link** - ***https://cartpriceprediction.herokuapp.com/***
 
 
 
@@ -68,18 +68,13 @@ regression , Decision tree etc.
 
 ## Installation :zap:
 
- **1. Clone this repo by running the following command :-**
- ```bash
-  git clone https://github.com/ritik-sys/Big-mart-sales-prediction.git
-  cd Big-mart-sales-prediction
- ```
  
- **2. Now start the  server  by running the following command :-**
+ **1. Now start the  server  by running the following command :-**
  ```bash
  python app.py
  ```
  
- **4.** **🎉  Open your browser and go to  `https://localhost:3000`**
+ **2.** **🎉  Open your browser and go to  `https://localhost:3000`**
  
 ## Contributors 🤝
  - [**Gagandeep Singh**](https://github.com/)  
